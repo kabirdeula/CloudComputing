@@ -12,10 +12,10 @@ Class Load: **6Hrs./ Week (Theory: 3Hrs, Practical: 3Hrs.)**
 ### Course Description
 
 <p align="justify">Course Description
-This course oflers detailed concept, applications, 
+This course offers detailed concept, applications, 
 principles and implementation of cloud computing. It 
 includes introduction, Cloud Computing Architecture, 
-Cloud Yirtualization, Cloud Programming Models, Cloud 
+Cloud Virtualization, Cloud Programming Models, Cloud 
 security and applications. It does not entirely focus on 
 theoretical concept but also strongly focuses on practical
 skill based learning.

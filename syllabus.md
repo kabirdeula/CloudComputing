@@ -108,7 +108,7 @@
 <p align="justify">
 
     1. Dr. Kumar Saurabh, Cloud Computing
-    2. Raj Kumar Buyya, Christian Vecchiola, S. ThamaraiSelvi, Mastering Cloud Computing
+    2. Raj Kumar Buyya, Christian Vecchiola, S. Thamarai Selvi, Mastering Cloud Computing
 </p>
 
 # Reference Books
