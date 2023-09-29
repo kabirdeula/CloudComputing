@@ -1,5 +1,6 @@
 # Cloud Computing [CACS402]
 [![wakatime](https://wakatime.com/badge/user/d843d77e-df9e-4be5-a842-ed311ba05a54/project/ce508bc4-bf64-42ed-92db-372b906a266d.svg)](https://wakatime.com/badge/user/d843d77e-df9e-4be5-a842-ed311ba05a54/project/ce508bc4-bf64-42ed-92db-372b906a266d)
+[![Codeac](https://static.codeac.io/badges/2-694459846.svg "Codeac")](https://app.codeac.io/github/kabirdeula/CloudComputing)
 
 Course Title: **Cloud Computing**
 
